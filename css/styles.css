@@ -86,6 +86,10 @@ body {
   line-height: 1.8;
 }
 
+.my-bio {
+  font-size: 1.2rem;
+}
+
 /* Portfolio section */
 
 #portfolio {
