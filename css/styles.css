@@ -140,3 +140,10 @@ body {
     width: 80%;
   }
 }
+
+/* Dark mode */
+
+.dark-mode {
+  background-color: #333;
+  color: #fff;
+}
